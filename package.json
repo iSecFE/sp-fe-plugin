@@ -1,0 +1,22 @@
+{
+  "name": "sp-plugin",
+  "version": "1.0.0",
+  "description": "Common Plugins.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z41z/sp-plugin.git"
+  },
+  "keywords": [
+    "plugin"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/z41z/sp-plugin/issues"
+  },
+  "homepage": "https://github.com/z41z/sp-plugin#readme"
+}
