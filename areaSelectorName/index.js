@@ -17,6 +17,8 @@ const Area = (options = {}) => {
   let citySelector = document.querySelector(`#${cityEl}`)
   let countySelector = document.querySelector(`#${countyEl}`)
   provinceSelector.innerHTML = provinceOption
+  citySelector.innerHTML = defaultOption
+  countySelector.innerHTML = defaultOption
 
   /**
    * 省切换
